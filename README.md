@@ -8,7 +8,7 @@ My personal [Scoop](https://scoop.sh) Bucket.
 
 This bucket includes the following manifests:
 
-| Symlink Name        | Manifest File                                                                                   | Source Repository                                        |
+| Shim Name        | Manifest File                                                                                   | Source Repository                                        |
 |---------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------|
 | `vacuumtube`        | [vacuumtube.json](https://github.com/Gildedter/scoop-bucket/blob/master/bucket/vacuumtube.json) | [VacuumTube](https://github.com/shy1132/VacuumTube)      |
 
